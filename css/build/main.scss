@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+}
+
+.box {
+	position: relative;
+	&:hover {
+		background-image: red;
+	}
+}
+
+.box3 {
+	position: relative;
+	&:hover {
+		background-image: red;
+	}
+}
