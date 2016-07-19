@@ -15,3 +15,10 @@ body {
 		background-image: red;
 	}
 }
+
+.container2 {
+	position: relative;
+	&:hover {
+		background-image: red;
+	}
+}
